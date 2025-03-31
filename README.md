@@ -224,15 +224,12 @@ plt.show()
 # OUTPUT
 
 1. Amplitude Shift Keying(ASK)
-   
    ![Screenshot 2025-03-31 200618](https://github.com/user-attachments/assets/df95795c-1efb-426f-97ff-897fbd2a7544)
 
 2. Frequency Shift Keying(FSK)
-
    ![Screenshot 2025-03-31 200825](https://github.com/user-attachments/assets/c09405b9-b3e6-4856-93bd-f37993dae4b6)
 
 3. Phase Shift Keying(PSK)
-
    ![Screenshot 2025-03-31 202809](https://github.com/user-attachments/assets/4b2a0f93-9297-4849-b951-6f78164d915d)
 
 

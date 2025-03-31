@@ -220,18 +220,14 @@ plt.ylabel('Amplitude')
 plt.tight_layout()
 
 plt.show()
-
 # OUTPUT
-
 1. Amplitude Shift Keying(ASK)
    ![Screenshot 2025-03-31 200618](https://github.com/user-attachments/assets/df95795c-1efb-426f-97ff-897fbd2a7544)
-
 2. Frequency Shift Keying(FSK)
    ![Screenshot 2025-03-31 200825](https://github.com/user-attachments/assets/c09405b9-b3e6-4856-93bd-f37993dae4b6)
-
 3. Phase Shift Keying(PSK)
    ![Screenshot 2025-03-31 202809](https://github.com/user-attachments/assets/4b2a0f93-9297-4849-b951-6f78164d915d)
-   ![Screenshot 2025-03-31 203320](https://github.com/user-attachments/assets/58923af8-7f7f-4895-afde-2f69fe3fe6e8)
+
 
 
 
